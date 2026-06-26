@@ -1,10 +1,10 @@
         
-function github() {
-    window.open('https://youtu.be/bB2o81DnKHk?si=wa0M-vAYMuhAXP34');
+function item3() {
+    window.open('https://www.youtube.com/watch?v=gmuTjeQUbTM&t');
 }
         
 function githubTwo() {
-        window.open('https://www.google.com');
+        window.open('https://www.youtube.com/watch?v=2bURmYzn5LY');
 }
 
 function hrkv() {
@@ -20,9 +20,9 @@ function Aieng() {
         'https://www.youtube.com/watch?v=rAtZRNs96Aw&t'
     )
 }
-function procode() {
+function item13() {
     window.open(
-        'https://www.youtube.com/watch?v=zcTFtYLA_HQ&t'
+        'https://www.youtube.com/watch?v=s4EOVsBO7Ck&t'
     )
 }
 function tedc() {
@@ -46,5 +46,75 @@ function prointer() {
 function zerosd() {
     window.open(
         'https://www.youtube.com/watch?v=WR1ydijTx5E'
+    )
+}
+function item16() {
+    window.open(
+        'https://www.youtube.com/watch?v=6lm8ttDGUMo'
+    )
+}
+function item15() {
+    window.open(
+        'https://www.youtube.com/watch?v=HTUh0OO6Kmo'
+    )
+}
+function item2() {
+    window.open(
+        'https://www.youtube.com/watch?v=zfYsSFY4l18'
+    )
+}
+function item11() {
+    window.open(
+        'https://www.youtube.com/watch?v=vGENm2-oe8k'
+    )
+}
+function item18() {
+    window.open(
+        'https://www.youtube.com/watch?v=7JnSU3DPBC4&t'
+    )
+}
+function item9() {
+    window.open(
+        'https://www.youtube.com/watch?v=IeH4GuLi8qw'
+    )
+}
+function item21() {
+    window.open(
+        'https://www.youtube.com/watch?v=IeH4GuLi8qw'
+    )
+}
+function item7() {
+    window.open(
+        'https://www.youtube.com/watch?v=kQC_ssE9HaI&t'
+    )
+}
+function item24() {
+    window.open(
+        'https://www.youtube.com/watch?v=U46fJ2bJ-co&t'
+    )
+}
+function item22() {
+    window.open(
+        'https://www.youtube.com/watch?v=0KJyxxKduUQ'
+    )
+}
+function item29() {
+    window.open(
+        'https://www.youtube.com/watch?v=Vj-1SYMXcEQ'
+    )
+}
+function item19() {
+    window.open(
+        'https://www.youtube.com/watch?v=9S-uO10nXcE'
+    )
+}
+function item23() {
+    window.open(
+        'https://www.youtube.com/watch?v=4WCTGycBceg'
+    )
+}
+function item20() {
+    window.open(
+        'https://www.youtube.com/watch?v=o8NPllzkFhE'
     )
 }
