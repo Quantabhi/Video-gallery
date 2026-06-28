@@ -1,8 +1,19 @@
-        
+const xitem3 = document.querySelector(".item3")
 function item3() {
-    window.open('https://www.youtube.com/watch?v=gmuTjeQUbTM&t');
+    window.open(
+        'https://www.youtube.com/watch?v=gmuTjeQUbTM&t'
+    )
 }
-        
+xitem3.addEventListener("click", item3)
+
+const xitem5 = document.querySelector(".item5")
+function item5() {
+    window.open(
+        'https://www.youtube.com/watch?v=zcTFtYLA_HQ&t'
+    )
+}
+xitem5.addEventListener("click", item5)
+    
 function githubTwo() {
         window.open('https://www.youtube.com/watch?v=2bURmYzn5LY');
 }
